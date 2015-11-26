@@ -14,7 +14,6 @@ and perhaps most importantly, I am comfortable with.
 
 * git
 * flask
-  * duh
 * sqlalchemy / flask-sqlalchemy
 * postgreSQL
 * alembic / flask-migrate
